@@ -1,4 +1,0 @@
-C:\Users\wmccullough\OneDrive\Code\Confluent.Kafka.Extensions\Confluent.Kafka.Extensions\bin\Debug\netstandard1.4\Confluent.Kafka.Extensions.deps.json
-C:\Users\wmccullough\OneDrive\Code\Confluent.Kafka.Extensions\Confluent.Kafka.Extensions\bin\Debug\netstandard1.4\Confluent.Kafka.Extensions.dll
-C:\Users\wmccullough\OneDrive\Code\Confluent.Kafka.Extensions\Confluent.Kafka.Extensions\obj\Debug\netstandard1.4\Confluent.Kafka.Extensions.csprojResolveAssemblyReference.cache
-C:\Users\wmccullough\OneDrive\Code\Confluent.Kafka.Extensions\Confluent.Kafka.Extensions\obj\Debug\netstandard1.4\Confluent.Kafka.Extensions.AssemblyInfo.cs
