@@ -2,6 +2,11 @@
 
 The Kafka.Extensions library was built to serve as a fluent wrapper on top of the Confluent.Kafka library. It includes support for System.Reactive so that events can be piped to Observers in real time. This library is in its infancy. Nuget coming soon!
 
+## Nuget
+```
+Install-Package Confluent.Kafka.Extensions
+```
+
 ### Framework
 
 * .NET Standard 1.3
